@@ -1,2 +1,2 @@
 # Keylogger
-I made a calculator with "tkinter" library
+I made a keylogger with "pynput" library
